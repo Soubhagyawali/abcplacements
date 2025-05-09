@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/firebase-debug.log
+
+API-KEY="AIzaSyBSJE24PtA-0-CO_u7cjiglzsvEHb4fLVI",
+AUTH-DOMAIN="abchackfinity.firebaseapp.com",
+PROJECT-ID="abchackfinity",
+STORAGE-BUCKET="abchackfinity.firebasestorage.app",
+MSGSENDER-ID="58944259111",
+APP-ID="1:58944259111:web:6bf3a3d90520d216db3a02",
+MEASUREMENT-ID="G-K44X5C5PZ7"
